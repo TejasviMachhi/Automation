@@ -43,7 +43,7 @@ npx playwright test tests/login.spec.js
 ✅ Test Requirements
 Node.js (v16 or higher recommended)
 Internet connection
-Staging environment: https://appstag.fantasywl.in
+Staging environment
 
 🔐 Notes
 The test currently uses a mock OTP (1234). If OTP validation is enforced, consider mocking or stubbing the OTP API for CI.
