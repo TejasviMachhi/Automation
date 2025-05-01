@@ -18,19 +18,19 @@ The script performs the following steps:
 ✅ Positive Test
 Test Name: `Login Page - Successful Login with Valid Credentials`
 
-1 Navigates to the login page
-2 Enters a valid mobile number and password
-3 Submits the login form
-4 Verifies navigation to OTP verification page
-5 Enters dummy OTP
-6 Verifies successful redirection to the home page
+1. Navigates to the login page
+2. Enters a valid mobile number and password
+3. Submits the login form
+4. Verifies navigation to OTP verification page
+5. Enters dummy OTP
+6. Verifies successful redirection to the home page
 
 ❌ Negative Test *(commented out in code)*
 Test Name: `Login Page - Unsuccessful Login with Invalid Credentials`
 
-1 Enters invalid mobile number and password
-2 Submits login form
-3 Verifies that user remains on login page (no access granted)
+1. Enters invalid mobile number and password
+2. Submits login form
+3. Verifies that user remains on login page (no access granted)
 
 
 # Install dependencies
