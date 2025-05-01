@@ -1,6 +1,6 @@
 🔐 Fansportiz Signup and login  Page - Playwright Test
 
-This project contains an end-to-end test using [Playwright](https://playwright.dev/) that automates the **valid user signup journey** for the [Fansportiz](https://appstag.fantasywl.in/) application.
+This project contains an end-to-end test using [Playwright](https://playwright.dev/) that automates the **valid user signup journey** for the Fansportiz application.
 
 📄 Test Scenarios Covered - Sign up page
 
